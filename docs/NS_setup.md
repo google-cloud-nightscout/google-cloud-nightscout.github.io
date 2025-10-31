@@ -1,5 +1,4 @@
 ---
-layout: GCNS
 title: "Setting Up Google Cloud Nightscout"
 description: "Log into your Nightscout site on Google Cloud via FreeDNS, configure API secret, and enable xDrip uploads using QR or REST API."
 ---
