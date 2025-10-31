@@ -1,7 +1,6 @@
 ---
 title: "Nightscout Variable 'AUTH_DEFAULT_ROLES' Default Setting"
 description: "Explanation of why 'AUTH_DEFAULT_ROLES' is set to denied by default in Google Cloud Nightscout. Covers security reasons and when a change may be required."
-layout: GCNS
 ---
 
 # Why AUTH_DEFAULT_ROLES is set to "Denied"
