@@ -1,7 +1,6 @@
 ---
 title: "Nightscout Installation Guide on your VM"
 description: "Step-by-step guide for installing Nightscout (NS). Includes documentation, tips, and help for setup and configuration."
-layout: GCNS
 ---
 
 # Linux/Nightscout install  
