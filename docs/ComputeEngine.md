@@ -1,5 +1,4 @@
 ---
-layout: GCNS
 title: "Google Cloud Compute Engine VM Instances"
 description: "Guide to navigate the Google Cloud Console to access the Compute Engine VM instances page—so you can manage, stop, or view your Nightscout virtual machine."
 ---
