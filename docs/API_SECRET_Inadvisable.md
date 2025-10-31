@@ -1,7 +1,6 @@
 ---
 title: "Google Cloud Nightscout API_SECRET Inadvisable Characters"
 description: "Learn about inadvisable characters in the API_SECRET for Google Cloud Nightscout and how to resolve the warning on the status page."
-layout: GCNS
 ---
 
 # Google Could Nightscout API_SECRET inadvisable characters
