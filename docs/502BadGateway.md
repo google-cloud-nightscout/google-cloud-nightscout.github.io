@@ -1,5 +1,4 @@
 ---
-layout: GCNS
 title: "Nightscout 502 Bad Gateway on Google Cloud"
 description: "What to do when your Nightscout site deployed on Google Cloud shows a 502 Bad Gateway: check status, complete 'Install Nightscout Phase 1', then restart the server."
 ---
