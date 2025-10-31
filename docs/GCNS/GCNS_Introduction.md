@@ -1,7 +1,6 @@
 ---
 title: "Google Cloud Nightscout Introduction"
 description: "Introduction to Google Cloud Nightscout (GCNS) setup and usage. Documentation and help for Nightscout using the GCNS platform."
-layout: GCNS
 ---
   
 # Introduction  
