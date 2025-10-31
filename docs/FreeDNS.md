@@ -1,5 +1,4 @@
 ---
-layout: GCNS
 title: "Google Cloud Nightscout FreeDNS Setup Guide"
 description: "Step-by-step instructions for creating a FreeDNS account and setting up a subdomain to access your Nightscout site—complete setup in under 10 minutes."
 ---
