@@ -1,5 +1,4 @@
 ---
-layout: GCNS
 title: "Google Cloud Nightscout Cost Table"
 description: "Learn how to view and download your Google Cloud cost breakdown for Nightscout—including free-tier credits, usage costs, and snapshot fees—using the Cost Table in Billing."
 ---
