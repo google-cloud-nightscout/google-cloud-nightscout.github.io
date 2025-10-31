@@ -1,4 +1,7 @@
 theme: jekyll-theme-midnight
 plugins:
   - jekyll-relative-links
-baseurl: /xDrip
+baseurl: ""
+relative_links:
+  enabled: true
+  collections: true
