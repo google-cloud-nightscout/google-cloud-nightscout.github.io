@@ -1,7 +1,6 @@
 ---
 title: "Troubleshooting Google Cloud Nightscout"
 description: "Guide to diagnosing and fixing common problems with Google Cloud Nightscout. Documentation and help for setup, errors, and configuration issues."
-layout: GCNS
 ---
 
 # Google Cloud Nightscout Troubleshooting
