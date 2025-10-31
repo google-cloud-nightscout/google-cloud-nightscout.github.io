@@ -1,7 +1,6 @@
 ---
 title: "Google Cloud Free Trial End – Upgrade Your Account"
 description: "Your Google Cloud free trial has ended. Learn how to upgrade your account to continue using your Nightscout instance without interruption."
-layout: GCNS
 ---
 
 # Free Trial has ended - Upgrade your account
