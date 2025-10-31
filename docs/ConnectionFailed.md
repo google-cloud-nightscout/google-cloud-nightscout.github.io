@@ -1,5 +1,4 @@
 ---
-layout: GCNS
 title: "Nightscout VM Connection Failed Guide"
 description: "Learn why connecting to your Nightscout VM may fail after a reboot on Google Cloud and how to recover—wait 30 seconds, then click 'Retry' to reconnect successfully."
 ---
