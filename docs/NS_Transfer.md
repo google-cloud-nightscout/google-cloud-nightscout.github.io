@@ -1,7 +1,6 @@
 ---
 title: "Transfer Data from Another Nightscout Instance"
 description: "Learn how to transfer past glucose readings from another Nightscout repository—such as Heroku—to your Google Cloud Nightscout setup. Includes documentation and help for data migration."
-layout: GCNS
 ---
 
 # Data transfer from another Nightscout
