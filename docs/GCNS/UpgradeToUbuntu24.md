@@ -1,7 +1,6 @@
 ---
 title: "Upgrade Google Cloud Nightscout to Ubuntu 24"
 description: "Step-by-step guide to upgrading your Google Cloud Nightscout (GCNS) setup from Ubuntu 20 to Ubuntu 24. Documentation and help for a smooth upgrade process."
-layout: GCNS
 ---
 
 # Upgrade to Ubuntu 24  &nbsp; &nbsp;  
