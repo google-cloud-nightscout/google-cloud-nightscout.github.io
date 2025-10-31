@@ -1,5 +1,4 @@
 ---
-layout: GCNS
 title: "Nightscout Google Cloud Billing"
 description: "See how to access Google Cloud billing."
 ---
