@@ -1,7 +1,6 @@
 ---
 title: "Transfer Nightscout Data to Google Cloud"
 description: "Learn how to import mongodump to your Google Cloud Nightscout setup. Includes documentation and help for safe data migration."
-layout: GCNS
 ---
 
 # Import data from other servers
