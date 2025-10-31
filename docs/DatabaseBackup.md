@@ -1,5 +1,4 @@
 ---
-layout: GCNS
 title: "Google Cloud Nightscout Backup Guide"
 description: "How to back up your Nightscout MongoDB database and variables on Google Cloud: generate a compressed archive via the terminal, download it safely, and avoid data loss if the VM is deleted."
 ---
