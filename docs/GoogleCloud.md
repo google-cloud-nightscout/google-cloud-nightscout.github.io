@@ -1,8 +1,7 @@
 ---
-layout: default
-title: "Google Cloud Nightscout"
-description: "Setup and guide for running Nightscout on Google Cloud"
+layout: none
 ---
-{% include GoogleCloud.md %}
-
+<meta http-equiv="refresh" content="0; url=/">
+<link rel="canonical" href="https://google-cloud-nightscout.github.io/">
+  
   
