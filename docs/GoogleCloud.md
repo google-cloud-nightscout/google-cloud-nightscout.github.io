@@ -1,5 +1,4 @@
 ---  
-layout: GCNS  
 title: Google Cloud Nightscout  
 description: "Step‑by‑step guide to setting up Nightscout on Google Cloud using FreeDNS, a VM, and Linux installation via xDrip."  
 ---  
