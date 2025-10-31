@@ -1,8 +1,5 @@
   
 # Google Cloud Nightscout  
-[xDrip](../../) >> [Features](../Features_page.md) >> [Nightscout](../Nightscout_page.md) >> Google Cloud Nightscout  
-<br/>  
-<br/>  
   
 #### [Introduction](./GCNS/GCNS_Introduction.md)  
   
