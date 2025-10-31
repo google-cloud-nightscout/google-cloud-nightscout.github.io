@@ -1,7 +1,7 @@
----
-title: "Google Cloud Nightscout"
-description: "Setup and guide for running Nightscout on Google Cloud"
----
+---  
+title: "Google Cloud Nightscout"  
+description: "Setup and guide for running Nightscout on Google Cloud"  
+---  
   
 # Google Cloud Nightscout  
   
