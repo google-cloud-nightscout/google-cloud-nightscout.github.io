@@ -1,5 +1,4 @@
 ---
-layout: GCNS
 title: "Google Cloud Nightscout Release Notes"
 description: "Track updates to Google Cloud Nightscout—Ubuntu upgrades, Nightscout versions, UI enhancements, and install improvements."
 ---
