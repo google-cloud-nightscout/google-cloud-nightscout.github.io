@@ -1,7 +1,6 @@
 ---
 title: "Google Cloud Nightscout API_SECRET"
 description: "Learn how to configure and retrieve your API_SECRET for secure REST API access in Google Cloud Nightscout."
-layout: GCNS
 ---
 
 # Google Cloud Nighscout API_SECRET
