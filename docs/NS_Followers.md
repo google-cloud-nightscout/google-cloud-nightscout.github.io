@@ -1,7 +1,6 @@
 ---
 title: "Nightscout Followers Setup"
 description: "Guide for adding and managing followers in Nightscout (NS). Documentation and help for sharing glucose data safely and effectively."
-layout: GCNS
 ---
 
 # Setting up followers on Google Cloud
