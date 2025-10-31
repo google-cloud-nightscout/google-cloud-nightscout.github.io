@@ -1,5 +1,5 @@
 ---
-layout: GCNS
+
 ---
 
 # Google Cloud Firewall  
