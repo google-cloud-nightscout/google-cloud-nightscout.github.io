@@ -1,7 +1,6 @@
 ---
 title: "Google Cloud Nightscout Support"
 description: "Help and documentation for Google Cloud Nightscout (GCNS) support. Learn how to troubleshoot, get assistance, and manage your Nightscout setup."
-layout: GCNS
 ---
 
 # Google Cloud Nightscout Support
