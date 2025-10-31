@@ -1,5 +1,5 @@
 ---
-layout: GCNS
+
 ---
 
 # Delete Google Cloud snapshot schedule  
