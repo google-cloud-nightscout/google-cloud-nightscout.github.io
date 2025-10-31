@@ -1,5 +1,4 @@
 ---
-layout: GCNS
 title: "Create a Google Cloud Project for Nightscout"
 description: "Step-by-step guide to set up a Google Cloud project with billing and free-trial credit to host your Nightscout instance."
 ---
