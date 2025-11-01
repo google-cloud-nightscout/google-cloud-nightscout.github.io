@@ -4,7 +4,7 @@ description: "Your Google Cloud free trial has ended. Learn how to upgrade your 
 ---
 
 # Free Trial has ended - Upgrade your account
-[Google Cloud Nightscout](./GoogleCloud) >> Free Trial End  
+[Google Cloud Nightscout](../) >> Free Trial End  
   
 You should upgrade Google Cloud to avoid any surprises.  
 If you don't upgrade, you will receive an email notification as shown below when your free trial ends.  Click on "Upgrade now".  
