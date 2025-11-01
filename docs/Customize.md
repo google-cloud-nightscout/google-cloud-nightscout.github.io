@@ -4,7 +4,7 @@ description: "Learn how to install or update Nightscout from a GitHub fork on Go
 ---
 
 # Customize Nightscout
-[Google Cloud Nightscout](./GoogleCloud.md) >> Customize  
+[Google Cloud Nightscout](../) >> [Utilities](./GCNS/Utilities.md) >> Customize Nightscout  
   
 You need to have completed the Nightscout [installation](./NS_Install.md) steps before using this utility.  
 You can use it to install from a GitHub fork created from the development branch of the official Nightscout repository in order to update to the development branch.  
