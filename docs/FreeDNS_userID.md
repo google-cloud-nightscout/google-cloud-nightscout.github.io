@@ -4,7 +4,7 @@ description: "Learn how to locate your FreeDNS user ID needed during Nightscout 
 ---
 
 # What is my FreeDNS user ID?
-[Google Cloud Nightscout](./GoogleCloud.md) >> FreeDNS user ID  
+[Google Cloud Nightscout](../) >> [FAQ](./GCNS/FAQ.md) >> FreeDNS user ID  
 
 You can use your email address to log into FreeDNS in a browser.  However, during the installation phase 2, you will need your FreeDNS user ID.  
   
