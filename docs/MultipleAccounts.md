@@ -4,7 +4,7 @@ description: "Learn why each Nightscout instance must use a separate Google acco
 ---
 
 # Multiple Nightscout accounts  
-[Google Cloud Nightscout](./GoogleCloud.md) >> Multiple accounts  
+[Google Cloud Nightscout](../) >> [FAQ](./GCNS/FAQ.md) >> Can I have multiple accounts?  
 
 In order to qualify for free tier, you need to have each one of your Nightscout accounts set up in a dedicated Google account.  
 There is nothing wrong with having [multiple Google accounts](https://www.androidauthority.com/how-many-google-accounts-3060971/).  
