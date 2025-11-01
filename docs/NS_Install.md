@@ -4,7 +4,7 @@ description: "Step-by-step guide for installing Nightscout (NS). Includes docume
 ---
 
 # Linux/Nightscout install  
-[Google Cloud Nightscout](./GoogleCloud.md) >> Linux/Nightscout install  
+[Google Cloud Nightscout](../) >> Linux/Nightscout install  
   
 Now, we will update Linux on our virtual machine and install Nightscout on it.  You must have [FreeDNS](./FreeDNS.md) and a [Google Project](./NS_GCProject.md) set up, and you should have already created a [virtual machine](./VirtualMachine.md) to proceed.  There are also video clips on this page that may be helpful.  
 <br/>  
