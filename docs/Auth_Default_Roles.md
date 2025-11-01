@@ -4,7 +4,7 @@ description: "Learn how Nightscout’s AUTH_DEFAULT_ROLES setting can prevent th
 ---
 
 # Malfunctioning Nightscout applications
-[Google Cloud Nightscout](./GoogleCloud.md) >> Malfunctioning applications  
+[Google Cloud Nightscout](../) >> Malfunctioning applications  
   
 There is a Nightscout variable titled AUTH_DEFAULT_ROLES. By default, we have set this variable to "denied." Here’s [why](./Why_Denied_Auth.md).  
   
