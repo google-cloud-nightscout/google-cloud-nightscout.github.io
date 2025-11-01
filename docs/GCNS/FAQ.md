@@ -7,6 +7,7 @@ description: "Answers to common questions about setting up and managing Google C
 [Google Cloud Nightscout](../GoogleCloud.md) >> Google Cloud Nightscout Frequently Asked Questions  
 <br/>  
   
+#### [How can I edit the variables?](../NS_Variables.md)
 #### [How can I change the hostname?](../ChangeHostname.md)
 #### [What is the cost?](../NS_FreeTier.md)
 #### [Will this be free?](../NS_FreeTier.md)
