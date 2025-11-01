@@ -4,7 +4,7 @@ description: "Learn how to log in to your FreeDNS account and locate your user I
 ---
 
 # FreeDNS login  
-[Google Cloud Nightscout](./GoogleCloud.md) >> How to log in to your FreeDNS  
+[Google Cloud Nightscout](../) >> How to log in to your FreeDNS  
   
 Go to [https://freedns.afraid.org/](https://freedns.afraid.org/).  
 If you are not logged in already, you will see this.  
