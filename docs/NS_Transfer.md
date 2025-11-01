@@ -4,7 +4,7 @@ description: "Learn how to transfer past glucose readings from another Nightscou
 ---
 
 # Data transfer from another Nightscout
-[Google Cloud Nightscout](./GoogleCloud.md) >> Data Transfer  
+[Google Cloud Nightscout](../) >> [Utility](./GCNS/Utilities.md) >> Data Transfer  
   
 This is how you can transfer your past readings from another repository, for example, from Heroku.    
   
