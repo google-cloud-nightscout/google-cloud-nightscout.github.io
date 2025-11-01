@@ -4,7 +4,7 @@ description: "What to do when your Nightscout site deployed on Google Cloud show
 ---
 
 # 502 Bad Gateway
-[Google Cloud Nightscout](./GoogleCloud.md) >> 502 Bad Gateway  
+[Google Cloud Nightscout](../) >> 502 Bad Gateway  
   
 Do you encounter this error when attempting to access your Nightscout in a browser?  
 <br/>  
