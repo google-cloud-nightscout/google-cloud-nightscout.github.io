@@ -4,7 +4,7 @@ description: "Learn how to connect to your Google Cloud Nightscout virtual machi
 ---
 
 # Virtual machine mobile access
-[Google Cloud Nightscout](./GoogleCloud.md) >> Mobile  
+[Google Cloud Nightscout](../) >> Mobile  
   
 This is about how to use a mobile device to access your Google Cloud Nighscout.   
 
