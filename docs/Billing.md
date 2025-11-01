@@ -4,7 +4,7 @@ description: "See how to access Google Cloud billing."
 ---
 
 # Google Cloud Billing
-[Google Cloud Nightscout](./GoogleCloud.md) >> Billing  
+[Google Cloud Nightscout](../) >> Billing  
   
 Go to [Google Cloud](https://cloud.google.com/).  
 Sign in.  
