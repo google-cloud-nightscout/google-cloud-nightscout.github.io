@@ -4,7 +4,7 @@ description: "Step-by-step guide to set up a Google Cloud project with billing a
 ---
   
 # Google Cloud project  
-[Google Cloud Nightscout](./GoogleCloud.md) >> Google Cloud project  
+[Google Cloud Nightscout](../) >> Google Cloud project  
   
 You will need a Google account, a Google project, and activated billing for the Google project.  We will take care of all that now.  There are also video clips (silent) on this page that may be helpful if the instructions are not clear.  
 You will need 5-15 minutes to complete this.  
