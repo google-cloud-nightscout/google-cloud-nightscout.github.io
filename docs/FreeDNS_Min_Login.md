@@ -4,7 +4,7 @@ description: "FreeDNS accounts must be logged into at least once every 6 months 
 ---
 
 # FreeDNS login frequency
-[Google Cloud Nightscout](./GoogleCloud.md) >> FreeDNS login requirement  
+[Google Cloud Nightscout](../) >> [Troubleshooting](./GCNS/Troubleshooting.md) >> FreeDNS login requirement  
   
 If you don't login to your FreeDNS account for 5.5 months, you will receive an email from them reminding you that you need to log in.  
 Please [log into your FreeDNS account](./FreeDNS_Login.md).  
