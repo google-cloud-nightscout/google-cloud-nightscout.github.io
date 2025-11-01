@@ -4,7 +4,7 @@ description: "Learn why connecting to your Nightscout VM may fail after a reboot
 ---
 
 # Virtual machine connection failed
-[Google Cloud Nightscout](./GoogleCloud.md) >> Connection Failed  
+[Google Cloud Nightscout](../) >> [Troubleshooting](./GCNS/Troubleshooting.md) >> Connection Failed  
   
 You may experience a connection failed error.  
 ![ConnectionFailed](./images/ConnectionFailed.png)  
