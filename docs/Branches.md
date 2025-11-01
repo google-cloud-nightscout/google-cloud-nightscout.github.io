@@ -4,7 +4,7 @@ description: "Understand the differences between Nightscout branches on Google C
 ---
 
 # Google Cloud Nightscout branches
-[Google Cloud Nightscout](./GoogleCloud.md) >> Branches  
+[Google Cloud Nightscout](../) >> Branches  
   
 Google Cloud Nightscout has two branches that you can use:  
   
