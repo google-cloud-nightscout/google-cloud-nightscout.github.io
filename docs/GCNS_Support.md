@@ -4,7 +4,7 @@ description: "Help and documentation for Google Cloud Nightscout (GCNS) support.
 ---
 
 # Google Cloud Nightscout Support
-[Google Cloud Nightscout](./GoogleCloud.md) >> Support  
+[Google Cloud Nightscout](../) >> [Troubleshooting](./GCNS/Troubleshooting.md) >> Support  
   
 ### **Request for Help**  
 If you need help installing or using Google Cloud Nightscout, please refer to the troubleshooting and frequently asked questions sections on [this](./GoogleCloud.md) page.  If you still need help after, post in [discussions](https://github.com/NightscoutFoundation/xDrip/discussions).  
