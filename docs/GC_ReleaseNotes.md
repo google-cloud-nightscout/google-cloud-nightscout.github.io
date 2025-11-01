@@ -4,7 +4,7 @@ description: "Track updates to Google Cloud Nightscout—Ubuntu upgrades, Nights
 ---
 
 # Google Cloud Nightscout release notes
-[Google Cloud Nightscout](./GoogleCloud.md) >> Release notes  
+[Google Cloud Nightscout](../) >> Release notes  
   
 The development and stable branches are explained [here](./Branches.md).  
   
