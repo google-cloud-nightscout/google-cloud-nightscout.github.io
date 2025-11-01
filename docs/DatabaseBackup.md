@@ -4,7 +4,7 @@ description: "How to back up your Nightscout MongoDB database and variables on G
 ---
 
 # Google Cloud Nightscout Backup
-[Google Cloud Nightscout](./GoogleCloud.md) >> Backup  
+[Google Cloud Nightscout](../) >> [Utilities](./GCNS/Utilities.md) >> Backup  
   
 You must have Nightscout [installed and operational](./GoogleCloud.md) for this to work.  
 A video tutorial is included to complement the instructions.  
