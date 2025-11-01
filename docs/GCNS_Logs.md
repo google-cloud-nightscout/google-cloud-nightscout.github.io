@@ -4,7 +4,7 @@ description: "Learn how to access and view logs for troubleshooting your Google 
 ---
 
 # Google Cloud Nightscout Logs  
-[Google Cloud Nightscout](./GoogleCloud.md) >> Google Cloud Nightscout Logs  
+[Google Cloud Nightscout](../) >> Google Cloud Nightscout Logs  
   
 Logs could be helpful for troubleshooting.  
 ![Logs](./images/Logs.png)  
