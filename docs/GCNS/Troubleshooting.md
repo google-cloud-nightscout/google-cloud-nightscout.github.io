@@ -23,9 +23,8 @@ description: "Solutions for common GCNS issues such as connection errors, certif
 #### [Cannot connect - full disk](../FullDisk.md)
 #### [FreeDNS IP mismatch & failed certificate](../FreeDNS_Min_Login.md)
 #### [10GB disk size (advanced)](../FullDisk.md)
-  
 <br/>  
   
-#### [Contact us](./GCNS_Support.md)  
+#### [Contact us](../GCNS_Support.md)  
 
   
