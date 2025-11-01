@@ -4,7 +4,7 @@ description: "Learn how to import mongodump to your Google Cloud Nightscout setu
 ---
 
 # Import data from other servers
-[Google Cloud Nightscout](./GoogleCloud.md) >> Import data from other servers  
+[Google Cloud Nightscout](../) >> Import data from other servers  
   
 Regardless of where your Nightscout server is, it uses MongoDB.  MongoDB can create a **mongodump**, which is a binary export of a database’s contents.  
   
