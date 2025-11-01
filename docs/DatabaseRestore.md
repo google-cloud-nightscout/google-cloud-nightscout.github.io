@@ -4,7 +4,7 @@ description: "Step-by-step guide to restoring your Nightscout MongoDB data or va
 ---
 
 # Google Cloud Nightscout Restore
-[Google Cloud Nightscout](./GoogleCloud.md) >> Restore  
+[Google Cloud Nightscout](../) >> [Utilities](./GCNS/Utilities.md) Restore  
   
 You must have Nightscout [installed and functional](./GoogleCloud.md) for this to work.  
   
