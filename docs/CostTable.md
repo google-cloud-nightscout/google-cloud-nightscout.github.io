@@ -4,7 +4,7 @@ description: "Learn how to view and download your Google Cloud cost breakdown fo
 ---
 
 # Google Cloud Cost Table
-[Google Cloud Nightscout](./GoogleCloud) >> Cost Table  
+[Google Cloud Nightscout](../) >> Cost Table  
   
 You can get a categorized list of costs from Google Cloud even before your free trial period ends.  You must have [created a Google Project and activated billing](./NS_GCProject.md) for this to work.  
 <br/>  
