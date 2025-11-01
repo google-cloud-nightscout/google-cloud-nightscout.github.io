@@ -7,7 +7,7 @@ description: "Quick shortcuts for managing Nightscout on Google Cloud: restart, 
 [Google Cloud Nightscout](../GoogleCloud.md) >> Google Cloud Nightscout Tips  
 <br/>  
   
-#### [Use menus](../HowToMenu.md)
+#### [Menus](../Menu.md)
 #### [Restart](../Restart.md)
 #### [Access Compute Engine VM instances](../ComputeEngine.md)
 #### [Access Billing](../Billing.md)
@@ -21,7 +21,6 @@ description: "Quick shortcuts for managing Nightscout on Google Cloud: restart, 
 #### [Create a cost table](../CostTable.md)
 #### [Import MongoDB from Atlas](../HerokuGone.md)
 #### [Terminal](../Terminal.md)
-#### [Menus](../Menu.md)
 #### [Release notes](../GC_ReleaseNotes.md)
 #### [Security](../Security.md)
 #### [Snapshots](../Snapshots.md) (Advanced)
