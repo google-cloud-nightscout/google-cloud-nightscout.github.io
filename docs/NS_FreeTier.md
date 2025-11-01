@@ -4,7 +4,7 @@ description: "Understand the costs of running Google Cloud Nightscout and why yo
 ---
 
 # Google Cloud cost  
-[Google Cloud Nightscout](./GoogleCloud.md) >> Unexpected costs    
+[Google Cloud Nightscout](../) >> [FAQ](./GCNS/FAQ.md) >> Unexpected costs    
   
 #### **Why have I been charged?**  
 Google Cloud Nightscout is free in some months, but in others you may see a small charge of about $0.03.  
