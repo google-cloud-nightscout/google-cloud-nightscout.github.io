@@ -4,7 +4,7 @@ description: "Learn how to address the 'Existing Certificate' prompt when re-run
 ---
 
 # Existing Certificate
-[Google Cloud Nightscout](./GoogleCloud.md) >>  You have an existing certificate that has exactly the same domain  
+[Google Cloud Nightscout](../) >> [Troubleshooting](./GCNS/Troubleshooting.md) >> You have an existing certificate that has exactly the same domain  
   
 If you run "install Nightscout phase 2" again shortly after having run it before, you may get a note claiming that there is an existing certificate.  
 ![ExistingCertificate](./images/ExistingCertificate.png)  
