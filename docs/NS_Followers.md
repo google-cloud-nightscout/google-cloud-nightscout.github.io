@@ -9,7 +9,7 @@ description: "Guide for adding and managing followers in Nightscout (NS). Docume
 You can always use a web browser to view the readings from your Nightscout site. Simply enter the hostname into the browser and authenticate using your API_SECRET or token when prompted.  
   
 Using tokens is the most secure method. Granting public access to your site is not recommended.  
-Details on how to manage tokens can be found [here](./Tokens.md).  
+Details on how to manage tokens can be found [here](https://navid200.github.io/xDrip/docs/Nightscout/Tokens.html).  
   
 Additionally, granting public access to your site may allow web crawlers to index it, which can significantly increase traffic. To keep your Nightscout project free, it’s important to minimize traffic.    
 <br/>  
@@ -22,5 +22,5 @@ Additionally, granting public access to your site may allow web crawlers to inde
 There are apps available that you can use to follow Nightscout.  
 The setup process for each app varies. Be sure to refer to the specific app’s instructions for proper configuration.  
 
-Instructions for using xDrip as a Nightscout follower are explained [here](../Follow/FollowNightscout.md).  
+Instructions for using xDrip as a Nightscout follower are explained [here](https://navid200.github.io/xDrip/docs/Follow/FollowNightscout.html).  
   
