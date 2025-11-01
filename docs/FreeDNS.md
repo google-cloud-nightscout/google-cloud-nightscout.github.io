@@ -4,7 +4,7 @@ description: "Step-by-step instructions for creating a FreeDNS account and setti
 ---
 
 # Free DNS
-[Google Cloud Nightscout](./GoogleCloud.md) >> FreeDNS  
+[Google Cloud Nightscout](../) >> FreeDNS  
 
 Follow these instructions in order to use FreeDNS, which you will need in order to set up Google Cloud Nightscout.  
 You will need 5-10 minutes to complete this.  
