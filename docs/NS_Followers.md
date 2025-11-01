@@ -4,7 +4,7 @@ description: "Guide for adding and managing followers in Nightscout (NS). Docume
 ---
 
 # Setting up followers on Google Cloud
-[Google Cloud Nightscout](./GoogleCloud.md) >> Setting up followers  
+[Google Cloud Nightscout](../) >> Setting up followers  
   
 You can always use a web browser to view the readings from your Nightscout site. Simply enter the hostname into the browser and authenticate using your API_SECRET or token when prompted.  
   
