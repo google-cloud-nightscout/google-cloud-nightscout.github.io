@@ -4,7 +4,7 @@ description: "Step-by-step instructions to change your Nightscout hostname on Go
 ---
 
 # How can I change the hostname?
-[Google Cloud Nightscout](./GoogleCloud.md) >> Can I change the hostname?  
+[Google Cloud Nightscout](../) >> Can I change the hostname?  
   
 If you already have a working Nightscout setup following our [instructions](./GoogleCloud.md) and simply want to change the hostname, this guide explains how to do it.  
   
