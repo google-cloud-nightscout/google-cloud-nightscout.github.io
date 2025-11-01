@@ -4,7 +4,7 @@ description: "Learn how to update your Nightscout installation on Google Cloud: 
 ---
 
 # Update Google Cloud Platform
-[Google Cloud Nightscout](./GoogleCloud.md) >> Update to latest release  
+[Google Cloud Nightscout](../) >> [Utilities](./GCNS/Utilities.md) >> Update to latest release  
   
 We update the Google Cloud Nightscout platform in order to add functionality and fix issues.  This is how you can update your platform to access 
  those improvements.  
