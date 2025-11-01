@@ -74,4 +74,3 @@ Use the development branch if you are confident with technology and are willing 
 Use the development branch if you need a feature that is only available there.  
 Use the stable branch if you prefer stability and the stable release meets all your needs.  
   
-<script src="/xDrip/assets/js/copy.js"></script>  
