@@ -4,7 +4,7 @@ description: "Guide to navigate the Google Cloud Console to access the Compute E
 ---
 
 # Google Cloud Compute Engine VM instances
-[Google Cloud Nightscout](./GoogleCloud.md) >> Compute Engine VM instances  
+[Google Cloud Nightscout](../) >> Compute Engine VM instances  
   
 Go to [Google Cloud](https://cloud.google.com/).  
 Sign in.  
