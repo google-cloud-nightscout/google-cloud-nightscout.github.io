@@ -48,25 +48,7 @@
       </section>
     </div>
     <script src="{{site.baseurl}}/assets/js/theme.js"></script>
-    <script>
-      function FunctionCopyText() {
-        // Get the text field
-        var copyText = document.getElementById("myInputText");
-        // Copy the text inside the text field
-        navigator.clipboard.writeText(copyText.value);
-      }
-    </script>
-    
-    <script src="https://cdn.jsdelivr.net/npm/@docsearch/js@3"></script>
-    <script type="text/javascript">
-      docsearch({
-        appId: "T3Y3GMH5ZO",
-        apiKey: "625050bf1bdb755ed6550b581c3b3859",
-        indexName: "navid200io",
-        container: "#docsearch",
-        debug: false 
-      });
-    </script>
+    <script src="{{ site.baseurl }}/assets/js/copy.js"></script>
     
   </body>
 </html>
