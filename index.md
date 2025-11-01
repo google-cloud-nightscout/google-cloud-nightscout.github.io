@@ -5,6 +5,8 @@ description: "Setup and guide for running Nightscout on Google Cloud"
   
 # Google Cloud Nightscout  
   
+<br/>  
+
 #### [Introduction](./docs/GCNS/GCNS_Introduction.md)  
   
 ---  
