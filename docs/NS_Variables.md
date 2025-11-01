@@ -4,7 +4,7 @@ description: "Learn how to safely edit and manage Nightscout variables in Google
 ---
 
 # Nightscout variables  
-[Google Cloud Nightscout](./GoogleCloud.md) >> Variables  
+[Google Cloud Nightscout](../) >> [FAQ](./GCNS/FAQ.md) >> How can I edit variables?  
   
 After [setting up Nightscout](./NS_setup.md), you can edit your Nightscout variables if needed.  <span style="color:red">For any change to the variables to take effect, you will need to [reboot the server](./Restart.md).</span>  
   
