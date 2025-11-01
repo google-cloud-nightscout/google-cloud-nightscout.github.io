@@ -4,7 +4,7 @@ description: "Understand why your email address is requested during Google Cloud
 ---
 
 # Why am I asked for an email address?
-[Google Cloud Nightscout](./GoogleCloud.md) >> Who is asking for my email address?  
+[Google Cloud Nightscout](../) >> [FAQ](./GCNS/FAQ.md) >> Who is asking for my email address?  
   
 During installation, in phase 2, you will be asked to enter an email address.
 We are not collecting email addresses.  We don't keep a record of your email address.
