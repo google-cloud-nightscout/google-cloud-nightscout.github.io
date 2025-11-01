@@ -4,15 +4,12 @@ description: "Learn how to use the Google Cloud Nightscout terminal menu to mana
 ---
 
 # Google Cloud Nightscout menu
-[Google Cloud Nightscout](./GoogleCloud.md) >> Menu  
+[Google Cloud Nightscout](../) >> [Tips](./GCNS/Tips.md) >> Menu  
   
 When you open a [terminal](./Terminal.md), the main menu will automatically come up.  
 ![Main menu](./images/Menu.png)  
   
-If no menu appears when you open a terminal, you may need to [update](./NS_SyncExecutables.md) your installation files.  
-If the window is too small, some menu items may not display correctly.  It’s best to avoid reducing the window size too much.  
-  
-We use SSH on Google Cloud to access the virtual machine.  [This](./HowToMenu.md) explains how to use menus.  
+If the window is too small, some menu items may not display correctly.  It’s best to avoid reducing the window size.  
   
 If you need to use the shell (terminal), select "Exit to shell".  
 To return to the menu after, you can open a new terminal, or enter `menu` in the terminal.  
@@ -22,18 +19,26 @@ To return to the menu after, you can open a new terminal, or enter `menu` in the
 ---  
   
 #### **Submenus**
-There are 4 submenus.  Options 3, 4, 5 and 6 on the main menu take you to those submenus.  
+Some options on the main menu take you to submenus.  
   
-Google Cloud setup, main menu option 3  
+Google Cloud setup submenu  
 ![GCS_submenu](./images/GCS_submenu.png)  
   
-Nightscout setup, main menu option 4  
+Nightscout setup submenu  
 ![NSS_submenu](./images/NSS_submenu.png)   
   
-xDrip setup, main menu option 5  
+xDrip setup submenu  
 ![xDS_submenu](./images/xDS_submenu.png)  
   
-Data, main menu option 6  
+Data submenu  
 ![D_submenu](./images/D_submenu.png)  
+<br/>  
   
+---  
   
+#### **File selection menu**
+The file selection menu is shown below:  
+![](./images/FileSelectMenu.png)  
+  
+To select a file, click the file name and press the **spacebar**.  Pressing **Enter** alone will not select the file.  Once selected, the file name will appear in the full path at the bottom.  Then click **Enter** to confirm.  
+<br/>  
