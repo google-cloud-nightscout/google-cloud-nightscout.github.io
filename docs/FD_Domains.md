@@ -4,7 +4,7 @@ description: "Learn how to choose less-blocked FreeDNS domains for your Google C
 ---
 
 # FreeDNS blocked domains
-[Google Cloud Nightscout](./GoogleCloud.md) >> FreeDNS blocked domains  
+[Google Cloud Nightscout](../) >> [Troubleshooting](./GCNS/Troubleshooting.md) >> FreeDNS blocked domains  
   
 It has been reported that some hostnames are blocked by some schools or work networks.  If you experience this, ask if the school or workplace can add your hostname to their safe list.  
 Otherwise, it may be best to choose a domain that is not too popular.  You can have a total of 5 different FreeDNS subdomains for free whether they are all on the same domain or not.  So, creating a second hostname will be free.  
