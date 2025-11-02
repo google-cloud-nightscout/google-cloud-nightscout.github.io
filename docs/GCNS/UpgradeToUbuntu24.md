@@ -19,7 +19,7 @@ The following instructions will guide you through the upgrade process.
 <br/>  
   
 2- Set Up a New Virtual Machine and Install Nightscout  
-- Follow our [installation instructions](../GoogleCloud.md).  
+- Follow our [installation instructions](../../).  
 - [Restore your backup](../DatabaseRestore.md) to the new installation.
 - While both original and new virtual machines are active, you will be charged about $0.01 a day.  
 <br/>  
