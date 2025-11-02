@@ -4,7 +4,7 @@ description: "Learn how to open a Linux terminal for your Nightscout VM on Googl
 ---
 
 # Virtual machine terminal
-[Google Cloud Nightscout](./GoogleCloud.md) >> Terminal  
+[Google Cloud Nightscout](../) >> Terminal  
   
 You can access a Linux terminal on your virtual machine if you have completed the setup of your [virtual machine](./VirtualMachine.md).  
   
