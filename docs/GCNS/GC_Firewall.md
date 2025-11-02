@@ -1,9 +1,10 @@
 ---
-
+title: "Configure Firewall Rules for Google Cloud Nightscout"
+description: "Learn how to set up and secure firewall rules for your Google Cloud Nightscout VM. This guide covers the ports needed, restricting access, and best practices to avoid unintended exposure."
 ---
 
 # Google Cloud Firewall  
-[Google Cloud Nightscout](../GoogleCloud.md) >> Firewall  
+[Google Cloud Nightscout](../../) >> Firewall  
 <br/>  
   
 Creating a firewall is unnecessary for reducing the cost of unwanted traffic. A simpler approach is to change the network service class from the default premium setting to standard, as explained [here](./SwitchNetworkTier.md). This adjustment effectively eliminates traffic costs.    
