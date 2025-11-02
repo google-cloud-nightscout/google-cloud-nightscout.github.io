@@ -4,7 +4,7 @@ description: "Log into your Nightscout site on Google Cloud via FreeDNS, configu
 ---
 
 # Setting up Google Cloud Nightscout
-[Google Cloud Nightscout](./GoogleCloud.md) >> Setting up Nightscout  
+[Google Cloud Nightscout](../) >> Setting up Nightscout  
   
 We will now log into our new Nightscout, installed on the Google Cloud virtual machine, and set it up.  There are also video clips (silent) on this page that may be helpful if the instructions are not clear.  
 You will need 5-10 minutes to complete this.  
