@@ -6,7 +6,7 @@ description: "Step-by-step guide to restoring your Nightscout MongoDB data or va
 # Google Cloud Nightscout Restore
 [Google Cloud Nightscout](../) >> [Utilities](./GCNS/Utilities.md) Restore  
   
-You must have Nightscout [installed and functional](./GoogleCloud.md) for this to work.  
+You must have Nightscout [installed and functional](../) for this to work.  
   
 Open a [terminal](./Terminal.md).  
 Click on "Upload" at the top of the terminal.  
