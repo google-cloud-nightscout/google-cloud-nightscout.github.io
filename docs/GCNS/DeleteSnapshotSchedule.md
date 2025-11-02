@@ -1,9 +1,10 @@
 ---
-
+title: "Delete Snapshot Schedule for Google Cloud Nightscout"
+description: "Learn how to remove the automatic snapshot schedule on your Google Cloud Nightscout VM to avoid unexpected disk and snapshot costs. Step-by-step guide using console, CLI or API."
 ---
 
 # Delete Google Cloud snapshot schedule  
-[Google Cloud Nightscout](../GoogleCloud.md) >> Delete Snapshot Schedule  
+[Google Cloud Nightscout](../../) >> Delete Snapshot Schedule  
 <br/>  
   
 As of April 2025, a snapshot schedule is automatically created when you set up a new virtual machine. Snapshots are not free.  
