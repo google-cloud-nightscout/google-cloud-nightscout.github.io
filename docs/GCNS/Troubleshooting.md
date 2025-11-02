@@ -4,7 +4,7 @@ description: "Solutions for common GCNS issues such as connection errors, certif
 ---
 
 # Troubleshooting  
-[Google Cloud Nightscout](../GoogleCloud.md) >> Google Cloud Nightscout Troubleshooting  
+[Google Cloud Nightscout](../../) >> Google Cloud Nightscout Troubleshooting  
 <br/>  
   
 #### [Unexpected error - Too many requests of a given type](../TooManyCertificates.md)
