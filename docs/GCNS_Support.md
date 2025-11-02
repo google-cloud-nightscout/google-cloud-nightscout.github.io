@@ -7,7 +7,7 @@ description: "Help and documentation for Google Cloud Nightscout (GCNS) support.
 [Google Cloud Nightscout](../) >> [Troubleshooting](./GCNS/Troubleshooting.md) >> Support  
   
 ### **Request for Help**  
-If you need help installing or using Google Cloud Nightscout, please refer to the troubleshooting and frequently asked questions sections on [this](./GoogleCloud.md) page.  If you still need help after, post in [discussions](https://github.com/NightscoutFoundation/xDrip/discussions).  
+If you need help installing or using Google Cloud Nightscout, please refer to the troubleshooting and frequently asked questions sections on [this](../) page.  If you still need help after, post in [discussions](https://github.com/NightscoutFoundation/xDrip/discussions).  
 include the following in the first post.  
 - What is (or will be) uploading to Nightscout?
 - A screenshot of the [status page](./Status.md) if you have completed the installation.  
