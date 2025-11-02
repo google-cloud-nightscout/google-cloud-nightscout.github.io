@@ -3,7 +3,7 @@
 ---
 
 # Google Cloud VM Upload/Download
-[Google Cloud Nightscout](./GoogleCloud.md) >> Upload or Download files  
+[Google Cloud Nightscout](../) >> Upload or Download files  
   
 To upload or download a file to/from the virtual machine, you need to open a [terminal](./Terminal.md).  
 <br/>  
