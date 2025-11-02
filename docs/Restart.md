@@ -4,7 +4,7 @@ description: "Learn how to safely restart your Google Cloud Nightscout instance 
 ---
 
 # Restart Nightscout
-[Google Cloud Nightscout](./GoogleCloud.md) >> Restart Nightscout   
+[Google Cloud Nightscout](../) >> Restart Nightscout   
   
 To restart Nightscout, reboot the virtual machine by following these steps:  
 1- [Open a terminal](./Terminal).  
