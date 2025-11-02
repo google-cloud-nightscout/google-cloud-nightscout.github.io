@@ -4,7 +4,7 @@ description: "Learn how to safely reinstall your Nightscout instance on Google C
 ---
   
 # Google Cloud Nightscout Reinstall
-[Google Cloud Nightscout](./GoogleCloud.md) >> How to reinstall     
+[Google Cloud Nightscout](../) >> How to reinstall     
 <br/>  
   
 #### **Non-Destructive Reinstall**  
