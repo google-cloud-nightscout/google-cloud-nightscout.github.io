@@ -9,6 +9,6 @@ description: "Learn how to access and view logs for troubleshooting your Google 
 Logs could be helpful for troubleshooting.  
 ![Logs](./images/Logs.png)  
   
-You need to have started step 4 under installation [here](./GoogleCloud.md) before logs start to show.  
+You need to have started step 4 under installation [here](../) before logs start to show.  
 To see the logs, select "Logs" from the [main menu](./Menu.md).  
   
