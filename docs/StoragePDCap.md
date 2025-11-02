@@ -4,7 +4,7 @@ description: "Understand Storage PD capacity charges in Google Cloud Nightscout.
 ---
 
 # Google Cloud Storage PD Capacity  
-[Google Cloud Nightscout](./GoogleCloud.md) >> Why have I been charged for Storage PD Capacity?  
+[Google Cloud Nightscout](../) >> Why have I been charged for Storage PD Capacity?  
   
 Storage PD capcity is the cost of Persistent Disk.  
 If you have more than 30GB of disk space, you will be charged for it.  
