@@ -4,7 +4,7 @@ description: "Learn how to read and understand the status indicators on your Nig
 ---
 
 # Status page keywords
-[Google Cloud Nightscout](./GoogleCloud.md) >> Google cloud Nightscout status page keywords  
+[Google Cloud Nightscout](../) >> Google cloud Nightscout status page keywords  
 
 **<span style="color:red">Please complete all installation phases before using this page.</span>**  
 After completing all installation phases, the [status page](./Status.md) displays essential diagnostic information that can help identify potential issues in the event of a malfunction.  
