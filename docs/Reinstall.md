@@ -43,5 +43,5 @@ Only proceed with [deleting the machine](./DeleteVM.md) if you have no other rec
 ---  
   
 #### **Reinstall**  
-Follow the [installation instructions](./GoogleCloud.md) to set up a new instance.  
+Follow the [installation instructions](../) to set up a new instance.  
 Once completed, you can [restore your backup](./DatabaseRestore.md).  
