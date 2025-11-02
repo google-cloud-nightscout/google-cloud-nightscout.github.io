@@ -4,7 +4,7 @@ description: "Learn how to stop and start your Nightscout virtual machine on Goo
 ---
 
 # Stopping or starting the virtual machine  
-[Google Cloud Nightscout](./GoogleCloud.md) >> Stop and start virtual machine  
+[Google Cloud Nightscout](../) >> Stop and start virtual machine  
   
 You may need to stop a virtual machine if you cannot meet the free tier requirements, which allow only one virtual machine to be running at a time.  
 Additionally, your instance may stop due to an interruption in [payments](./NS_FreeTier.md).    
