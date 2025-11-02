@@ -4,7 +4,7 @@ description: "Introduction to Google Cloud Nightscout (GCNS) setup and usage. Do
 ---
   
 # Introduction  
-[Google Cloud Nightscout](../GoogleCloud.md) >> Google Cloud Nightscout Introduction  
+[Google Cloud Nightscout](../../) >> Google Cloud Nightscout Introduction  
   
 #### **Important Considerations**  
 This guide provides information specifically about Google Cloud Nightscout. While there are other alternatives available, the decision on whether this is the right option for you rests solely with you. The primary goal is to select the best solution to manage your or your loved one’s diabetes in consultation with a medical professional. It is important to avoid external pressure from individuals advocating for specific products. Please note, we have no financial ties to this software.  
