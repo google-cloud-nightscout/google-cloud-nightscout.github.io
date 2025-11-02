@@ -4,7 +4,7 @@ description: "Guide to using utilities in Google Cloud Nightscout (GCNS). Docume
 ---
 
 # Utilities  
-[Google Cloud Nightscout](../GoogleCloud.md) >> Google Cloud Nightscout Utilities  
+[Google Cloud Nightscout](../../) >> Google Cloud Nightscout Utilities  
 <br/>  
   
 #### [Backup](../DatabaseBackup.md)
