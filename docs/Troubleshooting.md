@@ -4,7 +4,7 @@ description: "Guide to diagnosing and fixing common problems with Google Cloud N
 ---
 
 # Google Cloud Nightscout Troubleshooting 
-[Google Cloud Nightscout](../) >> [Troubleshooting](./GCNS/Troubleshooting.md) >> Troubleshooting  
+[Google Cloud Nightscout](../) >> [Troubleshooting](./GCNS/Troubleshooting.md) >> Stopped Nightscout troubleshooting  
   
 If you cannot log into your virtual machine, it is possible that it has stopped.  See the following section.  
 <br/>  
