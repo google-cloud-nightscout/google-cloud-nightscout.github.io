@@ -4,7 +4,7 @@ description: "Learn how to change your Google Cloud Nightscout instance's Networ
 ---
 
 # Network Service Tier    
-[Google Cloud Nightscout](../GoogleCloud.md) >> Network Service Tier  
+[Google Cloud Nightscout](../../) >> Network Service Tier  
 <br/>  
   
 By default, the Network Service Tier is set to Premium, which can lead to higher costs for outgoing traffic. Switching to the Standard tier allows up to 200 GB of outbound traffic per month at no charge.  
