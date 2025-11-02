@@ -4,7 +4,7 @@ description: "Quick shortcuts for managing Nightscout on Google Cloud: restart, 
 ---
 
 # Tips  
-[Google Cloud Nightscout](../GoogleCloud.md) >> Google Cloud Nightscout Tips  
+[Google Cloud Nightscout](../../) >> Google Cloud Nightscout Tips  
 <br/>  
   
 #### [Menus](../Menu.md)
