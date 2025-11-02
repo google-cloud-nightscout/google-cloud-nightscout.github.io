@@ -4,7 +4,7 @@ description: "Learn about the security architecture of Google Cloud Nightscout, 
 ---
 
 # Google Cloud Nightscout & security
-[Google Cloud Nightscout](./GoogleCloud.md) >> Security  
+[Google Cloud Nightscout](../) >> Security  
   
 There have been questions about how robust Google Cloud Nightscout may be compared to alternatives.  We reached out to our lead developer, JamOrHam, for advice and the following was his response.  
 <br/>  
