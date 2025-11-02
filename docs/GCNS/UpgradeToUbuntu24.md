@@ -4,7 +4,7 @@ description: "Step-by-step guide to upgrading your Google Cloud Nightscout (GCNS
 ---
 
 # Upgrade to Ubuntu 24  &nbsp; &nbsp;  
-[Google Cloud Nightscout](../GoogleCloud.md) >> Upgrade to Ubuntu 24  
+[Google Cloud Nightscout](../../) >> Upgrade to Ubuntu 24  
 <br/>  
   
 We continuously update the setup and provide an [update mechanism](../NS_SyncExecutables.md) for seamless updates.  
