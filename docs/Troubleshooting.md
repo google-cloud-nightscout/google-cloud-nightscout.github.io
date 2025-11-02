@@ -3,8 +3,8 @@ title: "Troubleshooting Google Cloud Nightscout"
 description: "Guide to diagnosing and fixing common problems with Google Cloud Nightscout. Documentation and help for setup, errors, and configuration issues."
 ---
 
-# Google Cloud Nightscout Troubleshooting
-[Google Cloud Nightscout](../) >> Troubleshooting  
+# Google Cloud Nightscout Troubleshooting 
+[Google Cloud Nightscout](../) >> [Troubleshooting](./GCNS/Troubleshooting.md) >> Troubleshooting  
   
 If you cannot log into your virtual machine, it is possible that it has stopped.  See the following section.  
 <br/>  
@@ -16,11 +16,7 @@ Go to [Google Cloud](https://cloud.google.com/).  Sign into Google.
 Click on Console.  
 ![](./images/Console.png)  
   
-Go to dashboard.  
-![](./images/Dashboard.png)  
-  
-Select "Compute Engine".  
-![](./images/Dash.png)  
+From the menu, select "Compute Engine > VM instances".  
   
 You should see something like what is shown below with a checkmark under status.  
 ![](./images/VMisRunning.png)  
