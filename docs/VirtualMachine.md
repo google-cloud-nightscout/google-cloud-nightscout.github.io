@@ -4,7 +4,7 @@ description: "Step-by-step instructions to create a free-tier Google Cloud virtu
 ---
   
 # Google Cloud Virtual Machine  
-[Google Cloud Nightscout](./GoogleCloud.md) >> Virtual Machine  
+[Google Cloud Nightscout](../) >> Virtual Machine  
    
 In this guide, we will create a free virtual machine in our [Google project](./NS_GCProject.md).  Each Google account is eligible for one free virtual machine.  
 For additional assistance, a video clip on this page may be helpful. This process takes around 5 minutes.  
