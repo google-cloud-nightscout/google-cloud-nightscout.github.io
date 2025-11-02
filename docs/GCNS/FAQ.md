@@ -4,7 +4,7 @@ description: "Answers to common questions about setting up and managing Google C
 ---
   
 # Frequently Asked Questions  
-[Google Cloud Nightscout](../GoogleCloud.md) >> Google Cloud Nightscout Frequently Asked Questions  
+[Google Cloud Nightscout](../../) >> Google Cloud Nightscout Frequently Asked Questions  
 <br/>  
   
 #### [How can I edit the variables?](../NS_Variables.md)
