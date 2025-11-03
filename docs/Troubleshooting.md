@@ -40,16 +40,26 @@ Restarting the server is harmless and can resolve many issues.  So, it should be
   
 ---  
   
-#### **Status page**  
+#### **Wait**  
 After you restart the server, Nightscout will not be running immediately.  It may need a minute to start operation.  
-If it's still not running after you wait a minute, look at the [status page](./Status.md).  
-If there is nothing in red on the status page, install Nightscout phase 1 from the Google Cloud setup submenu.  
-Then, [restart](./Restart.md).  
+If it's still not running after you wait a minute, look at the [status page](./Status.md).   
 <br/>  
 
 ---  
   
 #### **Status page flags**  
 If you see items in red on the status page, look at the [status page flags](./StatusKey.md) and follow the instructions.  
+<br/>  
   
+---  
+  
+#### **Free DNS login**  
+It is common to forget to log into your Free DNS account once every 6 months.  Log in.  If you see anything unusual, see [this](./FreeDNS_Min_Login.md).  
+<br/>  
+  
+---  
+  
+#### **Phase 1**  
+If you have restarted the server and logged into your Free DNS account and your Nightscout is still not running and there are no red markers on the status page, install Nightscout phase 1 from the Google Cloud setup submenu.  
+Then, [restart](./Restart.md).  
   
