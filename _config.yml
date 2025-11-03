@@ -1,6 +1,7 @@
 theme: jekyll-theme-midnight
 plugins:
   - jekyll-relative-links
+  - jekyll-sitemap
 baseurl: ""
 relative_links:
   enabled: true
