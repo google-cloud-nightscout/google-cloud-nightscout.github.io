@@ -1,6 +1,6 @@
 ---
-title: "Troubleshooting Google Cloud Nightscout (GCNS)"
-description: "Solutions for common GCNS issues such as connection errors, certificate problems, FreeDNS issues, quota limits, and full disk in Google Cloud Nightscout."
+title: "Google Cloud Nightscout Troubleshooting"
+description: "Solutions for common GCNS issues, including connection errors, certificate problems, FreeDNS issues, quota limits, and full disk on Google Cloud Nightscout."
 ---
 
 # Troubleshooting  
