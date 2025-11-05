@@ -6,7 +6,7 @@ description: "Learn how to resolve the 'Too Many Certificates' error during Nigh
 # Unexpected error - Too many requests of a given type
 [Google Cloud Nightscout](../) >> [Troubleshooting](./GCNS/Troubleshooting.md) >> There were too many requests of a given type  
   
-![](./images/UnexpectedError.png)  
+![UnexpectedError](./images/UnexpectedError.png)  
 
 If you encounter this error while running install Nightscout phase 2, it means that installation cannot be completed for the domain you have attempted to use.  
 But, this is temporary.  
