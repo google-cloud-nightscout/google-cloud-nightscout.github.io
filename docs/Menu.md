@@ -38,7 +38,7 @@ Data submenu
   
 #### **File selection menu**
 The file selection menu is shown below:  
-![](./images/FileSelectMenu.png)  
+![FileSelectMenu](./images/FileSelectMenu.png)  
   
 To select a file, click the file name and press the **spacebar**.  Pressing **Enter** alone will not select the file.  Once selected, the file name will appear in the full path at the bottom.  Then click **Enter** to confirm.  
 <br/>  
