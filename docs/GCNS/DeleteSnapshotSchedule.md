@@ -1,5 +1,5 @@
 ---
-title: "Delete Snapshot Schedule for Google Cloud Nightscout"
+title: "Delete Snapshot Schedule for Google Cloud"
 description: "Learn how to remove the automatic snapshot schedule on your Google Cloud Nightscout VM to avoid unexpected disk and snapshot costs. Step-by-step guide using console, CLI or API."
 ---
 
