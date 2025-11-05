@@ -1,6 +1,6 @@
 ---
-title: "Google Cloud Nightscout: Cloud Identity-Aware SSH Error"
-description: "Learn how to resolve the 'Connection via Cloud Identity-Aware Proxy Failed' error when using SSH to connect to your Google Cloud Nightscout virtual machine."
+title: "Cloud Identity-Aware SSH Error in Google Cloud Nightscout"
+description: "Learn how to fix the 'Connection via Cloud Identity-Aware Proxy Failed' error when connecting via SSH to your Google Cloud Nightscout VM."
 ---
 
 # Connection via Cloud Identity-Aware Proxy Failed
