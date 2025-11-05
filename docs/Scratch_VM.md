@@ -57,6 +57,7 @@ However, please report any issues by opening a discussion [here](https://github.
 <br/>  
   
 ---  
+---  
   
 ## Manual Setup Instructions  
 The following are the original step-by-step instructions for creating the virtual machine manually from the Google Cloud menus, if you prefer not to use the Cloud Shell method.  
