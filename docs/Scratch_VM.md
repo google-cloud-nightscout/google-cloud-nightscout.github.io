@@ -148,8 +148,4 @@ If you see a red exclamation mark after creating your virtual machine and hoveri
 2- Reattempt creation in a different region.  
 3- Unfortunately, you will need to reconfigure all settings from scratch for the new request.  
 ![VM_Unavailable](./images/VM_Unavailable.png)   
-<br/>  
-  
----  
-  
   
