@@ -1,6 +1,6 @@
 ---
-title: "Let's Encrypt Support for Android 7 Has Ended"
-description: "Learn about the end of free support for Android 7 devices accessing Google Cloud Nightscout sites using Let's Encrypt certificates. Understand the SSL handshake errors and get guidance for continuing to access your Nightscout site."
+title: "Let's Encrypt Support Ended for Android 7"
+description: "Learn why Android 7 devices can no longer access Google Cloud Nightscout sites with Let's Encrypt certificates, understand SSL handshake errors, and get guidance for continued access."
 ---
 
 # Let’s Encrypt Support for Android 7 Has Ended
