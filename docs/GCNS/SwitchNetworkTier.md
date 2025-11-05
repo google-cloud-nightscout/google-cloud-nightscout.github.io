@@ -1,6 +1,6 @@
 ---
-title: "Switch Network Tier in Google Cloud Nightscout"
-description: "Learn how to change your Google Cloud Nightscout instance's Network Service Tier from Premium to Standard to qualify for free outbound traffic. Includes step-by-step instructions and video guide."
+title: "Google Cloud Nightscout Network Tier Change"
+description: "How to switch your Google Cloud Nightscout VM from Premium to Standard Network Tier for free-tier compliance."
 ---
 
 # Network Service Tier    
