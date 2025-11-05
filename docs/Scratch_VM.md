@@ -49,6 +49,7 @@ Your virtual machine will then be created.
 If you experience any problems, you can follow the original manual instructions further down this page.  
 However, please report any issues by opening a discussion [here](https://github.com/NightscoutFoundation/xDrip/discussions).  
 <br/>  
+<br/>  
   
 ---  
   
