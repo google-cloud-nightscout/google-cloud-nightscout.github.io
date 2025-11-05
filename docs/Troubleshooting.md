@@ -14,18 +14,18 @@ If you cannot log into your virtual machine, it is possible that it has stopped.
 #### **Stopped virtual machine**  
 Go to [Google Cloud](https://cloud.google.com/).  Sign into Google.  
 Click on Console.  
-![](./images/Console.png)  
+![Console](./images/Console.png)  
   
 From the menu, select "Compute Engine > VM instances".  
   
 You should see something like what is shown below with a checkmark under status.  
-![](./images/VMisRunning.png)  
+![VMisRunning](./images/VMisRunning.png)  
   
 But, if you see something like what is shown below with a square symbol (stop) under status, it means your virtual machine has stopped.  
-![](./images/VMhasStopped.png)  
+![VMhasStopped](./images/VMhasStopped.png)  
   
 If you see that, please click on the 3-dot drop-down menu and select "Start".  
-![](./images/StartVM.png)  
+![StartVM](./images/StartVM.png)  
 <br/>  
 <br/>  
   
