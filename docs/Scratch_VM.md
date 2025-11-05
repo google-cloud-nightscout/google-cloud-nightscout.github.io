@@ -37,7 +37,7 @@ You will be asked to enter a name for the new virtual machine.  You can just pre
 Confirm the creation of the machine.  
 And your virtual machine will be created.  
   
-If you experience any problems, you can proceed with our original instructions that you can find further doen this page.  But, please report the problem to [us](https://github.com/NightscoutFoundation/xDrip/discussions/new?category=general).  
+If you experience any problems, you can proceed with our original instructions that you can find further down this page.  But, please report the problem to us by opening a discussion [here](https://github.com/NightscoutFoundation/xDrip/discussions).  
   
 ---
   
