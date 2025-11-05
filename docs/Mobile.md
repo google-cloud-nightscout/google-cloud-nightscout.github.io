@@ -1,6 +1,6 @@
 ---
-title: "Access Google Cloud Nightscout From Mobile Device"
-description: "Learn how to connect to your Google Cloud Nightscout virtual machine using a mobile device — via Chrome or the Google Cloud mobile app — with documentation and help for seamless SSH access."
+title: "Access Google Cloud Nightscout from Mobile"
+description: "Learn how to connect to your Google Cloud Nightscout VM using a mobile device via Chrome or the Google Cloud mobile app, with step-by-step guidance for seamless SSH access."
 ---
 
 # Virtual machine mobile access
