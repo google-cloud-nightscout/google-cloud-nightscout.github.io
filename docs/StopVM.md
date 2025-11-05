@@ -12,7 +12,7 @@ Keep in mind that if a virtual machine running Nightscout is stopped, its IP add
   
 To stop a virtual machine, go to the [compute engine](./ComputeEngine.md).  
 Choose `Stop` from the 3-dot menu.  
-![](./images/StopVirtualMachine.png)  
+![StopVirtualMachine](./images/StopVirtualMachine.png)  
 
 If the virtual machine is stopped, you can start it from the same menu.  
 <br/>  
