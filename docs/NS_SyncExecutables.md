@@ -23,7 +23,7 @@ If a menu opens when you open a terminal, from the menu, or Google Cloud setup s
 View the Status page by selecting `Status`.  If it looks like [this](./images/Status.png), the platform has updated to the latest.  If not, please update platform from the Google Cloud setup submenu again.  
   
 If the status page still looks different, for example, if the username, repository name and branch name are blank, as shown below, please proceed to the "Bootstrap" section below.  
-![](./images/NoRepoStat.png)  
+![NoRepoStat](./images/NoRepoStat.png)  
 <br/>  
   
 ---  
