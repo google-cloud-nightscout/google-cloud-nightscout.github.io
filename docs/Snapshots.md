@@ -17,18 +17,18 @@ Creating a snapshot of your virtual machine (VM) disk on Google Cloud (note: thi
 **Creating a Snapshot**  
 Follow these steps to create a snapshot of your virtual machine disk:  
 1- Navigate to the Compute Engine page and click on Snapshots in the left-hand pane.  
-![](./images/Snapshots.png)  
+![Snapshots](./images/Snapshots.png)  
 
 2- Click on Create Snapshot at the top of the page.  
-![](./images/Snapshots2.png)  
+![Snapshots2](./images/Snapshots2.png)  
   
 3- From the drop-down menu under "Source disk", select the disk associated with your virtual machine.  
-![](./images/SourceDisk.png)  
+![SourceDisk](./images/SourceDisk.png)  
 
 - If you have recently completed an installation phase and see nothing in the drop-down menu, return to the dashboard and navigate back to the snapshot creation page.
   
 4- Assign a name (use lowercase letters only) to the snapshot so it’s easy to identify later.  
-![](./images/SnapshotTitle.png)  
+![SnapshotTitle](./images/SnapshotTitle.png)  
   
 5- Click "Create" at the bottom of the page.  
   
@@ -63,10 +63,10 @@ Let’s walk through the steps to restore a snapshot.
   
 5- Under Boot disk, click on Change.  
 - At the top of the menu, select Snapshots.  
-![](./images/DiskChangeSnapshot.png)  
+![DiskChangeSnapshot](./images/DiskChangeSnapshot.png)  
 - Choose your snapshot.
 - Change the disk type to Standard (the default setting is Balanced). Click Select.  
-![](./images/SnapshotDiskType.png)  
+![SnapshotDiskType](./images/SnapshotDiskType.png)  
   
 6- Under Firewall Options, enable Allow HTTP traffic and Allow HTTPS traffic.  
   
