@@ -10,6 +10,14 @@ In this guide, we will create a free virtual machine in our [Google project](./N
 For additional assistance, a video clip on this page may be helpful. This process takes about 1 minute.  
 <br/>  
   
+---  
+  
+### ⚠️ WARNING!  
+This virtual machine is strictly for hosting Nightscout. Do not use it for work, banking, trading, shopping, or development.   
+<br/>  
+  
+---  
+  
 After signing into Google Cloud, click on "Console".  
 ![](./images/Console.png)  
   
@@ -38,15 +46,7 @@ Confirm the creation of the machine.
 And your virtual machine will be created.  
   
 If you experience any problems, you can proceed with our original instructions that you can find further down this page.  But, please report the problem to us by opening a discussion [here](https://github.com/NightscoutFoundation/xDrip/discussions).  
-  
----
-  
-### ⚠️ WARNING!  
-This virtual machine is strictly for hosting Nightscout. Do not use it for work, banking, trading, shopping, or development.   
 <br/>  
-
-
-
   
 ---  
   
