@@ -31,7 +31,7 @@ Click the Cloud Shell button at the top right corner of the page.
 Authorize.  
 The Cloud Shell window will open at the bottom.  
   
-Copy and paste the following highlighted line into the Cloud Shell terminal that you opened, then press **Enter**.  
+Copy and paste the following highlighted line into the Cloud Shell that you opened, then press **Enter**.  
   
 <input type="text" value="curl https://raw.githubusercontent.com/jamorham/nightscout-vps/vps-2/create_vm.sh | bash" readonly 
   id="myInputText1"
