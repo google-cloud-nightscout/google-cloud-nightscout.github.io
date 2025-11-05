@@ -1,6 +1,6 @@
 ---
-title: "Handling Existing SSL Certificate During Nightscout Installation"
-description: "Learn how to address the 'Existing Certificate' prompt when re-running 'Install Nightscout Phase 2' on Google Cloud. This guide explains why it appears and how to proceed safely."
+title: "Handling Existing SSL Certificates in Google Cloud Nightscout"
+description: "Learn how to address the 'Existing Certificate' prompt when re-running Nightscout Phase 2 installation on Google Cloud, and how to proceed safely."
 ---
 
 # Existing Certificate
