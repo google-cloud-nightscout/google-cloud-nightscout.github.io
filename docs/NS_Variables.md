@@ -17,7 +17,7 @@ To edit your Nightscout variables, open a [terminal](./Terminal.md).
 Select "Edit variables in a browser" in the Nightscout setup submenu.  
 Be patient.  You will be presented with a link to click on.  
 You will see the variable edit page as shown next.  
-![](./images/Server.png)  
+![Server](./images/Server.png)  
   
 You will have 15 minutes to use the browser to edit the variables.  You can add variables, edit or delete them.  
 After you are done, you can just close the browser.  You will need to restart the server (Nightscout).  After a restart, the edited variables will be in effect.  
@@ -28,7 +28,7 @@ After you are done, you can just close the browser.  You will need to restart th
 Select "Edit variables using a text editor" in the Nightscout setup submenu and enter.  
   
 This will open, using nano, the file containing the variables for edit.  
-![](./images/nsconfig.png)  
+![nsconfig](./images/nsconfig.png)  
 To save, press ctrl and O at the same time.  It will offer the same name to save the file.  Press enter to approve.  Or, enter a different name to create a copy.  
 To exit, press ctrl and X at the same time.  
   
