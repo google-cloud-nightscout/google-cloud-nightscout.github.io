@@ -27,6 +27,7 @@ If you consider deleting your existing virtual machine, see [this](./DeleteVM.md
   
 Click the Cloud Shell button at the top right corner of the page.  
 ![](./images/OpenCloudShell.png)  
+  
 Authorize.  
 The Cloud Shell window will open at the bottom.  
   
