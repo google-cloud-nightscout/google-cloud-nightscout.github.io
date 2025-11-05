@@ -46,6 +46,9 @@ You will be asked to enter a name for the new virtual machine.  You can simply p
 Confirm the creation of the machine.  
 Your virtual machine will then be created.  
   
+<video width="400" controlsList="nodownload" src="./video/VM2.mp4" controls>  
+</video>  
+  
 If you experience any problems, you can follow the original manual instructions further down this page.  
 However, please report any issues by opening a discussion [here](https://github.com/NightscoutFoundation/xDrip/discussions).  
 <br/>  
