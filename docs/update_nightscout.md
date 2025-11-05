@@ -7,7 +7,7 @@ description: "Learn how to check your current Nightscout version and update your
 [Google Cloud Nightscout](../) >> [FAQ](./GCNS/FAQ.md) >> Update Nightscout  
   
 To check your current version of Nightscout, open it in a browser, click the hamburger menu button, and scroll down to the “About” section. The Nightscout version will be listed there.  
-![](./images/Check4Updates.png)  
+![Check4Updates](./images/Check4Updates.png)  
   
 To see if an update is available, visit the Google Cloud Nightscout website. The version listed in parentheses indicates the latest version available through a fresh installation or update. If your current version is older, follow the steps below to update.  
   
