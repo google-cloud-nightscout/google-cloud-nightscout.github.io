@@ -12,7 +12,7 @@ This is about how to use a mobile device to access your Google Cloud Nighscout.
 **Chrome**  
 You can use Chrome on a mobile device to log into Google Cloud, select your project, access the instance and tap on SSH to open the menu.   
 Tapping on the menu will open the Android keyboard.  
-![](./images/Mobile.png)  
+![Mobile](./images/Mobile.png)  
   
 The arrow keys may not exist or work.  But, each option on the menu has an effective tag highlighted in red.  Pressing the effective tag on the keyboard selects the corresponding option.  
 If multiple options have the same effective tag, pressing the corresponding key repeatedly selects those options in sequence.  
@@ -30,4 +30,4 @@ Thanks to Bjørn Ole Haugsgjerd (facebook group) for the tip.
 Install the Google Cloud app from the play store.  
 Tap on "Resources" at the bottom.  Under Compute Engine, tap on VM instances.  Tap on your instance containing your Nightscout installation.  
 From the 3-dot menu, tap on "Connect via SSH".  
-![](./images/GC_app.png)  
+![GC_app](./images/GC_app.png)  
