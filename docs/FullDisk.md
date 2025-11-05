@@ -1,5 +1,5 @@
 ---
-title: "Google Cloud Nightscout: Resolving Full Disk Issues"
+title: "Google Cloud: Resolving Full Disk Issues"
 description: "Learn how to address full disk errors in your Google Cloud Nightscout instance. Step-by-step guide to expand disk space and restore functionality."
 ---
 
