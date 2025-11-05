@@ -48,8 +48,10 @@ Your virtual machine will then be created.
   
 <video width="400" controlsList="nodownload" src="./video/VM2.mp4" controls>  
 </video>  
+
+<br/>  
   
-If you experience any problems, you can follow the original manual instructions further down this page.  
+If you experience any problems, you can follow the original manual instructions further down this page instead.  
 However, please report any issues by opening a discussion [here](https://github.com/NightscoutFoundation/xDrip/discussions).  
 <br/>  
 <br/>  
