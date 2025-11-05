@@ -1,5 +1,6 @@
 ---
-
+title: "Uploading and Downloading Data for Google Cloud Nightscout"
+description: "How to upload and download your CGM and treatment data with Google Cloud Nightscout. Step-by-step instructions to export backups and restore them safely."
 ---
 
 # Google Cloud VM Upload/Download
