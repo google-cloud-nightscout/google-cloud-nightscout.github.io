@@ -59,8 +59,7 @@ However, please report any issues by opening a discussion [here](https://github.
 ---  
   
 ## Manual Setup Instructions  
-What follows are the original step-by-step instructions for creating the virtual machine manually by selecting the options from the Google Cloud menus. 
-You may still follow this method if you prefer.  
+The following are the original step-by-step instructions for creating the virtual machine manually from the Google Cloud menus, if you prefer not to use the Cloud Shell method.  
   
 Go to "Compute Engine"  &#8594; "VM Instances".  
   
