@@ -15,7 +15,7 @@ You will be asked for site name.  Enter the URL you use to access the source Nig
 You will be asked for a read token.  If the source Nightscout is open to the world, not recommended, you can just hit enter.  If it's not, enter a read token.  You can see [here](./NS_Followers.md) how to create and use tokens.  
   
 After you enter the token, the transfer will start.  
-![](./images/Transfer.png)  
+![Transfer](./images/Transfer.png)  
   
 It may take a while to complete depending on how much data you have in the previous repository.    
   
