@@ -6,8 +6,8 @@ description: "Step-by-step instructions to create a free-tier Google Cloud virtu
 # Google Cloud Virtual Machine  
 [Google Cloud Nightscout](../) >> Virtual Machine  
    
-In this guide, we will create a free virtual machine in our [Google project](./NS_GCProject.md).  Each Google account is eligible for one free virtual machine.  
-For additional assistance, a video clip on this page may be helpful. This process takes about 1 minute.  
+In this guide, we will create a free virtual machine in your [Google project](./NS_GCProject.md).  Each Google account is eligible for one free virtual machine.  
+For additional assistance, a video clip on this page may be helpful. This process takes about 2 minute.  
 <br/>  
   
 ---  
@@ -18,20 +18,20 @@ This virtual machine is strictly for hosting Nightscout. Do not use it for work,
   
 ---  
   
-After signing into Google Cloud, click on "Console".  
+After signing into Google Cloud, click "Console".  
 ![](./images/Console.png)  
   
 From the menu, select "Compute Engine > VM instances".  
-If you see that you already have a virtual machine and you proceed to create another, it will not be free.  
-If you consider deleting your existing virtual machine, see [this](./DeleteVM.md).  
+If you already have a virtual machine and proceed to create another, it will not be free.  
+If you are considering deleting your existing virtual machine, see [this section](./DeleteVM.md) for guidance.  
   
 Click the Cloud Shell button at the top right corner of the page.  
 ![](./images/OpenCloudShell.png)  
   
-Authorize.  
+Authorize when prompted.  
 The Cloud Shell window will open at the bottom.  
   
-Copy and paste the following highlighted line into the Cloud Shell that you opened, then press **Enter**.  
+Copy and paste the following highlighted line into the Cloud Shell you opened, then press **Enter**.  
   
 <input type="text" value="curl https://raw.githubusercontent.com/jamorham/nightscout-vps/vps-2/create_vm.sh | bash" readonly 
   id="myInputText1"
@@ -42,16 +42,19 @@ Copy and paste the following highlighted line into the Cloud Shell that you open
   
 <br/>  
   
-You will be asked to enter a name for the new virtual machine.  You can just press enter to approve the suggested name, or enter a name first.  
+You will be asked to enter a name for the new virtual machine.  You can simply press Enter to accept the suggested name, or type your own.  
 Confirm the creation of the machine.  
-And your virtual machine will be created.  
+Your virtual machine will then be created.  
   
-If you experience any problems, you can proceed with our original instructions that you can find further down this page.  But, please report the problem to us by opening a discussion [here](https://github.com/NightscoutFoundation/xDrip/discussions).  
+If you experience any problems, you can follow the original manual instructions further down this page.  
+However, please report any issues by opening a discussion [here](https://github.com/NightscoutFoundation/xDrip/discussions).  
 <br/>  
   
 ---  
   
-What follows is our previous instructions for creating the virtual machine by selecting the different options from the menus, which you can still follow if you prefer.  
+## Manual Setup Instructions  
+What follows are the original step-by-step instructions for creating the virtual machine manually by selecting the options from the Google Cloud menus. 
+You may still follow this method if you prefer.  
   
 Go to "Compute Engine"  &#8594; "VM Instances".  
   
