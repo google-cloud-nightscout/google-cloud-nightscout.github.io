@@ -10,7 +10,8 @@ The development and stable branches are explained [here](./Branches.md).
   
 | Release | Notes | Status page |  
 |---------|-------| ----------- |  
-| 2025.11.14 | **<span style="color:orange">Stable release</span>** <br/> Virtual machine creation Firewall fix | |  
+| 2025.11.18 | **<span style="color:orange">Stable release</span>** <br/> SSH window minimum dimensions | |  
+| 2025.11.14 | Virtual machine creation Firewall fix | |  
 | 2025.11.03 | Virtual Machine creation script |  
 | 2025.08.24 | Node install exception handling | |  
 | 2025.08.20 | Ubuntu 24.04.3 | |  
