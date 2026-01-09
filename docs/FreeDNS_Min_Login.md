@@ -33,5 +33,5 @@ Access the subdomains page to confirm that your hostname is active again.
   
 If the hostname is active and you restart the server, the hostname will be mapped to the ip address, and Nightscout will resume operation again.  
   
-**<span style="color:red">Set up your email client not to filter the email, from FreeDNS, as junk/spam.  You will receive an email from them once every 5.5 months as a reminder to log into your FreeDNS account to keep your account active.</span>**  
+**<span style="color:red">Set up a recurring (once every six months) calendar reminder to log in to your FreeDNS account, which will keep your account active.</span>**  
   
