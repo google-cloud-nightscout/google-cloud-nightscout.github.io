@@ -27,7 +27,7 @@ Please remember your user ID and password.
 Send activation email.  
 ![FreeDNS1](./images/FreeDNS1.png)  
 Open email and activate your account.  
-**<span style="color:red">Set up your email client not to filter the email, from FreeDNS, as junk/spam.  You will receive an email from them once every 5.5 months as a reminder to log into your FreeDNS account to keep your account active.</span>**  
+**<span style="color:red">Set up a recurring (once every six months) calendar reminder to log in to your FreeDNS account, which will keep your account active.</span>**  
   
 To log in, click on "Main Menu" under "For Members".  
 After logging in, you can see your user ID at the top right corner.  
