@@ -11,10 +11,11 @@ We update the Google Cloud Nightscout platform in order to add functionality and
 If you have not completed the [installation](../), please complete it first.  
   
 Open a [terminal](./Terminal.md).  A [menu](./Menu.md) should come up automatically.  Select `Update platform` from the Google Cloud setup submenu.  You can then check the status page to confirm that your setup has been updated by comparing it to [this](./Status.md).  
+<br/>  
+  
+---  
   
 If you created your setup prior to January 2023 and never updated it, you will not have the same menu options.  In that case, please follow the instructions explained in a corresponding section below first.  
-<br/>  
-<br/>   
   
 If a menu does not open when you open a terminal, please skip to the "Bootstrap" section below.  
   
