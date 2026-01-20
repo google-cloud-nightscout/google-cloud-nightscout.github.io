@@ -6,10 +6,16 @@ description: "Learn how to update your Nightscout installation on Google Cloud: 
 # Update Google Cloud Platform
 [Google Cloud Nightscout](../) >> [Utilities](./GCNS/Utilities.md) >> Update to latest release  
   
-We update the Google Cloud Nightscout platform in order to add functionality and fix issues.  This is how you can update your platform to access 
- those improvements.  
-If you have not completed the [installation](../), please complete it first.  
+We update the Google Cloud Nightscout platform to add functionality and fix issues.  This page explains how to update your platform so you can access those improvements.  
+If you have not completed the [installation](../), please do so first.  
   
-Open a [terminal](./Terminal.md).  A [menu](./Menu.md) should come up automatically.  Select `Update platform` from the Google Cloud setup submenu.  You can then check the status page to confirm that your setup has been updated by comparing it to [this](./Status.md).  
+Open a [terminal](./Terminal.md).  A [menu](./Menu.md) should appear automatically.  Select `Update platform` from the Google Cloud setup submenu.  
+  
+Be patient while the process completes.  
+[Restart the server](./Restart.md).  
+  
+Be patient for the restart to complete.  Wait an additional minute to allow the system to fully come back up.  
+  
+You can then check the status page to confirm that your setup has been updated by comparing it to [this](./Status.md).  
   
   
