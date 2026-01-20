@@ -10,10 +10,9 @@ We update the Google Cloud Nightscout platform to add functionality and fix issu
 If you have not completed the [installation](../), please do so first.  
   
 Open a [terminal](./Terminal.md).  A [menu](./Menu.md) should appear automatically.  Select `Update platform` from the Google Cloud setup submenu.  
-  
 Be patient while the process completes.  
-[Restart the server](./Restart.md).  
   
+[Restart the server](./Restart.md).  
 Be patient for the restart to complete.  Wait an additional minute to allow the system to fully come back up.  
   
 You can then check the status page to confirm that your setup has been updated by comparing it to [this](./Status.md).  
