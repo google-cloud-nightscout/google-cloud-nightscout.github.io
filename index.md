@@ -20,6 +20,7 @@ description: "Setup and guide for running Nightscout on Google Cloud"
 #### 4- [Linux/Nightscout install](./docs/NS_Install.md)
 #### 5- [Setting up Nightscout](./docs/NS_setup.md)
 #### 6- [Setting up followers](./docs/NS_Followers.md)  
+#### 7- [Backup reminder](./BackupReminder.md)  
 <br/>  
   
 ---  
