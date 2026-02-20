@@ -47,8 +47,8 @@ Confirm the creation of the machine.
 Your virtual machine will then be created.  
 If you see an error message similar to the following, run the script again:  
   
-`The zone 'projects/PROJECT_ID/zones/ZONE' does not have enough resources available to fulfill the request.
-Try a different zone, or try again later.`  
+> The zone 'projects/PROJECT_ID/zones/ZONE' does not have enough resources available to fulfill the request.
+Try a different zone, or try again later.  
   
 Create only one machine.  If you accidentally created more than one, [delete](./DeleteVM.md) the extra machines.  
   
