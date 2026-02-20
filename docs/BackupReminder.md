@@ -13,7 +13,7 @@ There is already a detailed backup guide available. This page is not a replaceme
 #### **How Often Should You Back Up?**  
 A practical approach is to create a backup twice per year. The entire process usually takes only a few minutes:  
   
-1- Follow the existing Database Backup guide to create a backup on your virtual machine.  
+1- Follow the existing [Database Backup guide](./DatabaseBackup.md) to create a backup on your virtual machine.  
 2- Download the backup file to your computer.  
 3- Upload the backup file to secure cloud storage (such as Google Drive or another reliable location) for safekeeping.  
   
