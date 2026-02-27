@@ -10,7 +10,8 @@ The development and stable branches are explained [here](./Branches.md).
   
 | Release | Notes | Status page |  
 |---------|-------| ----------- |  
-| 2026.01.06 | **<span style="color:orange">Stable release</span>** <br/> Mongo update to 8.0.17 | |  
+| 2026.02.21 | **<span style="color:orange">Stable release</span>** <br/> Ubuntu 24.04.4 | |  
+| 2026.01.06 | Mongo update to 8.0.17 | |  
 | 2025.11.18 | SSH window minimum dimensions | |  
 | 2025.11.14 | Virtual machine creation Firewall fix | |  
 | 2025.11.03 | Virtual Machine creation script |  
