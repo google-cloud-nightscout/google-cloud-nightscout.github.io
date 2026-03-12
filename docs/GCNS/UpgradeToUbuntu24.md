@@ -19,6 +19,7 @@ The following instructions will guide you through the upgrade process.
 <br/>  
   
 2- Set Up a New Virtual Machine and Install Nightscout  
+- If you are going to use the same domain and subdomain as your old machine, [stop](../StopVM.md) your old virtual machine.  
 - Follow our [installation instructions](../../).  
 - [Restore your backup](../DatabaseRestore.md) to the new installation.
 - While both original and new virtual machines are active, you will be charged about $0.01 a day.  
