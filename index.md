@@ -13,7 +13,7 @@ description: "Setup and guide for running Nightscout on Google Cloud"
   
 <br/>  
   
-####          **Installation** (15.0.3)
+####          **Installation** (15.0.6)
 #### 1- [FreeDNS sign up](./docs/FreeDNS.md)
 #### 2- [Google Cloud project](./docs/NS_GCProject.md)
 #### 3- [Virtual Machine](./docs/VirtualMachine.md)
