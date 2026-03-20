@@ -19,14 +19,14 @@ This virtual machine is strictly for hosting Nightscout. Do not use it for work,
 ---  
   
 After signing into Google Cloud, click "Console".  
-![](./images/Console.png)  
+![Console](./images/Console.png)  
   
 From the menu, select "Compute Engine > VM instances".  
 If you already have a virtual machine and proceed to create another, it will not be free.  
 If you are considering deleting your existing virtual machine, see [this section](./DeleteVM.md) for guidance.  
   
 Click the Cloud Shell button at the top right corner of the page.  
-![](./images/OpenCloudShell.png)  
+![OpenCloudShell](./images/OpenCloudShell.png)  
   
 Authorize when prompted.  
 The Cloud Shell window will open at the bottom.  
@@ -45,9 +45,8 @@ Copy and paste the following highlighted line into the Cloud Shell you opened, t
 You will be asked to enter a name for the new virtual machine.  You can simply press Enter to accept the suggested name, or type your own.  
 Confirm the creation of the machine.  
 Your virtual machine will then be created.  
-If you see an error message similar to the following, run the script again:  
-> The zone 'projects/PROJECT_ID/zones/ZONE' does not have enough resources available to fulfill the request.  
-> Try a different zone, or try again later.  
+If you see an error message similar to the following, run the command again.  
+![ZoneResourcePoolExhausted](./images/ZoneResourcePoolExhausted.png)  
   
 Create only one machine.  If you accidentally created more than one, [delete](./DeleteVM.md) the extra machines.  
   
