@@ -10,7 +10,8 @@ The development and stable branches are explained [here](./Branches.md).
   
 | Release | Notes | Status page |  
 |---------|-------| ----------- |  
-| 2026.03.26 | **<span style="color:orange">Stable release</span>** <br/> Detailed phase 1 logs |  
+| 2026.04.30 | **<span style="color:orange">Stable release</span>** <br/> Nightscout 15.0.7 | |  
+| 2026.03.26 | Detailed phase 1 logs | |  
 | 2026.03.22 | node_modules verification fix | |  
 | 2026.03.04 | Node 22 - Nightscout 15.0.6 | |  
 | 2026.02.21 | Ubuntu 24.04.4 | |  
