@@ -6,31 +6,30 @@ description: "Step-by-step instructions for creating a FreeDNS account and setti
 # Free DNS
 [Google Cloud Nightscout](../) >> FreeDNS  
 
-Follow these instructions in order to use FreeDNS, which you will need in order to set up Google Cloud Nightscout.  
-You will need 5-10 minutes to complete this.  
+Follow these instructions to set up FreeDNS, which is required to configure your Google Cloud Nightscout instance.  
+This process typically takes 5–10 minutes.  
 
-After everything is set up and working, you will need to log into your FreeDNS account at least once every 6 months, or when you receive a reminder email from them, as explained [here](./FreeDNS_Min_Login.md).  
+Important: To keep your account active, you must log in to FreeDNS at least once every six months.  FreeDNS will send a reminder email, or you can read more about the requirements [here](./FreeDNS_Min_Login.md).    
 <br/>  
   
 ---  
 
 #### **Creating an account**  
-Go to FreeDNS site: [https://freedns.afraid.org/](https://freedns.afraid.org/)  
-Click on Sign up Free, and sign up.  Make sure to choose a user ID excluding capital letters.  
-If you include capital letters in your user ID, FreeDNS will convert them all to lowercase.  
-Don't include any of the following characters in your password.  
+Go to FreeDNS website: [https://freedns.afraid.org/](https://freedns.afraid.org/)  
+Click on Sign up Free, and sign up.  Choose a User ID using only lowercase letters.   
+Do not include any of the following characters in your password:  
 
 $ &nbsp; &nbsp; \" &nbsp; &nbsp; \' &nbsp; &nbsp; \\  &nbsp; &nbsp; SPACE &nbsp; &nbsp; @ &nbsp; &nbsp; /  
   
-Please remember your user ID and password.  
+Please record your User ID and password for future use.  
   
-Send activation email.  
+Click to send the activation email.  
 ![FreeDNS1](./images/FreeDNS1.png)  
-Open email and activate your account.  
-**<span style="color:red">Set up a recurring (once every six months) calendar reminder to log in to your FreeDNS account, which will keep your account active.</span>**  
+Check your inbox and click the link in the email to activate your account.  
+**<span style="color:red">Set up a recurring (once every six months) calendar reminder to log in to your FreeDNS account. This ensures your subdomain remains active.</span>**  
   
-To log in, click on "Main Menu" under "For Members".  
-After logging in, you can see your user ID at the top right corner.  
+To log in later, click on "Main Menu" under "For Members".  
+Once logged in, your User ID will be visible in the top right corner.  
 ![FD_userID](./images/FD_userID.png)  
   
 <br/>  
@@ -38,28 +37,28 @@ After logging in, you can see your user ID at the top right corner.
 ---  
 
 #### **Choosing a domain**    
-Go to [Subdomains](https://freedns.afraid.org/subdomain/).  
-Add.  
+Navigate to the [Subdomains](https://freedns.afraid.org/subdomain/) page.  
+Click Add.  
   
-Under "Domain", you have 7 options.  Those 7 domains are less likely to be disabled some time in the future.  However, some schools or workplaces may block those domains.  
+Under the "Domain" dropdown, you will see several options.  The "top 7" domains are generally more stable and less likely to be disabled in the future.  However, some school or corporate networks may block these common domains.  
 
-If your school or workplace blocks your domain, try what is suggested [here](./FD_Domains.md).  
-If you don't experience any issues at work or school, using one of the 7 main domains may be better to avoid the possibility of the domain going down at some point in the future.  
+If your domain is blocked, refer to the suggestions [here](./FD_Domains.md).  
+If you have no connectivity issues, using one of the 7 main domains is recommended for long-term stability.  
   
-If the domain you are using is ever disabled, resolve the problem by creating a new subdomain on a different domain and [switching to it](./ChangeHostname.md).  
-  
-After having selected a public domain, please proceed with creating a subdomain.  
+If your domain is ever disabled, you can resolve this by creating a new subdomain on a different domain and [switching your setup to it](./ChangeHostname.md).    
 <br/>  
   
 ---  
   
 #### **Creating a subdomain**    
-Enter a subdomain name.  Under the image, enter text (capital) to capture the image you see.  You can change the image if it's not clear.  
-Save.  
+Subdomain:  Enter your desired name using only lowercase letters and no special characters.  
+Domain:  Select your chosen domain from the previous step.  
+CAPTCHA:  Enter the text exactly as it appears in the image.  You can change the image if it is difficult to read.  
+Click Save.  
 ![FreeDNS2](./images/FreeDNS2.png)  
 <br/>  
   
-Now, if you go to [Subdomains](https://freedns.afraid.org/subdomain/), you will see your new hostname:  
+To verify your setup, go back to the [Subdomains](https://freedns.afraid.org/subdomain/) page.  You will now see your new hostname:  
 ![FD_hostname](./images/FD_hostname.png)  
-That is what you will be using to access your Nightscout in a web browser.  
+This hostname is the URL you will use to access your Nightscout site in a web browser.  
   
