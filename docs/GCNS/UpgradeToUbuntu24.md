@@ -22,7 +22,7 @@ The following instructions will guide you through the upgrade process.
 - If you are going to use the same domain and subdomain as your old machine, [stop](../StopVM.md) your old virtual machine.  
 - Follow our [installation instructions](../../) starting with creating a new virtual machine.  
 - [Restore your backup](../DatabaseRestore.md) to the new installation.
-- While both original and new virtual machines are active, you will be charged about $0.01 a day.  
+- While both original and new virtual machines exist, you will be charged about $0.01 a day.  
 <br/>  
   
 3- Clean Up  
