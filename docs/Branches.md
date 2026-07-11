@@ -39,7 +39,7 @@ If you want to switch branches while using Google Cloud Nightscout, follow these
 <span id="msg1" style="margin-left:10px; color:green; display:none;">Copied!</span>  
 <br/>  
 To switch from the stable branch to the dev branch, copy the following command:  
-<input type="text" value="curl https://raw.githubusercontent.com/jamorham/nightscout-vps/vps-dev/bootstrap.sh | bash" readonly  
+<input type="text" value="curl https://raw.githubusercontent.com/jamorham/nightscout-vps/vps-dev/bootstrap.sh | bash -s -- dev" readonly  
        id="myInputText2"  
        style="border:none; color:#101010; background-color:#ededed; width:100%; font-size:15px">  
 <button onclick="copyText('myInputText2', 'msg2')"   
