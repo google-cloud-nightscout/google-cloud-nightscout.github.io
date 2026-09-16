@@ -16,7 +16,9 @@ Be patient while the process completes.
 Wait for the restart to complete, then allow an additional minute for the system to fully come back online.  
   
 You can then check the status page and compare it to [this](./Status.md) to confirm that your setup has been updated.  
+  
 If you have restarted the server, waited at least 5 minutes, and still cannot access Nightscout in a browser, run Phase 1 from the Google Cloud setup submenu.  
+  
 If you can access Nightscout in a browser, check the Nightscout version.  If the version is older than the one shown in the [guide](../index.md), run Phase 1 from the Google Cloud setup submenu.  
   
   
