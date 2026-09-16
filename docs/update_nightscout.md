@@ -17,7 +17,7 @@ To see if an update is available, visit the Google Cloud Nightscout website. The
 ---  
 
 #### **How to update**  
-Follow these [steps](./NS_SyncExecutables.md) to update your virtual machine platform to the latest version. Once the process is complete, your Nightscout will be updated.  
+Follow these [steps](./NS_SyncExecutables.md) to update your virtual machine platform to the latest version. Once the process is complete, if your Nightscout version is older than the version listed in parentheses in the Google Cloud Nightscout Guide, run Phase 1 from the Google Cloud setup submenu.  After the Phase 1 run completes, your Nightscout will be updated.  
 <br/>  
 
 ---  
