@@ -10,7 +10,7 @@ The development and stable branches are explained [here](./Branches.md).
   
 | Release | Notes | Status page |  
 |---------|-------| ----------- |  
-| 2026.09.04 | **<span style="color:orange">Stable release</span>** <br/> NS 15.0.8 | |  
+| 2026.09.04 | **<span style="color:orange">Stable release</span>** <br/> Nightscout 15.0.8 | |  
 | 2026.07.11 | Bootstrap cleanup - Mongo driver status | |  
 | 2026.05.23 | Phase 1 frame | |  
 | 2026.05.10 | Phase 1 and phase 2 are 100% idempotent now | |  
