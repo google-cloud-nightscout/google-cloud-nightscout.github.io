@@ -42,9 +42,10 @@ The following table shows possible messages and their meanings:
 | Firewall | [<img src="./images/AllGood_Icon.png" alt="Red X icon">](./images/Firewall.png) | Disconnect ❌ |  
 | Ubuntu | [<img src="./images/WrongUbuntu_Icon.png" alt="Red X icon">](./images/WrongUbuntu.png) | Incompatibility ❌ |  
   
-If the note directs you to create a new virtual machine, or if any item above the horizontal line on the status page is red, it means you made an incorrect selection during the virtual machine setup.  If this is a new virtual machine with no database yet, [delete the virtual machine](./DeleteVM.md) and repeat the [virtual machine step](./VirtualMachine.md).  
+If the note directs you to create a new virtual machine, or if any item above the horizontal line on the status page (except the Ubuntu version) is red, it means you made an incorrect selection during the virtual machine setup.  If this is a new virtual machine with no database yet, [delete the virtual machine](./DeleteVM.md) and repeat the [virtual machine step](./VirtualMachine.md).  
+If the Ubuntu version is shown in red, it means there has been a new Ubuntu version released.  Please inform us so that we can test and update the guide.  
   
-If you did not get a notification to recreate the machine due to an incorrect Ubuntu version and nothing is red above the horizontal line on the status page, click **OK** to close it.  Any red notes below the horizontal line are expected at this stage and can be ignored.  
+If you did not get a notification to recreate the machine due to an incorrect old Ubuntu version and nothing is red above the horizontal line on the status page (other than the Ubuntu version), click **OK** to close it.  Any red notes below the horizontal line are expected at this stage and can be ignored.  
 You will see this menu:  
 ![Main Menu](./images/Menu.png)  
   
